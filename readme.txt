@@ -19,8 +19,8 @@ recommended is [Simple Page Ordering](https://wordpress.org/plugins/simple-page-
 
 ### Technical details:
 
-1. Sets the 'restaurant' custom content type to be hierarchical
-2. Sets archive pages for the 'restaurant' to sort by menu_order
+1. Sets the 'restaurant_menu' custom content type to be hierarchical
+2. Sets archive pages for the 'restaurant_menu' type and 'restaurant_tag' to sort by menu_order
 
 == Screenshots ==
 
