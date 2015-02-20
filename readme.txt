@@ -17,9 +17,10 @@ plugin.
 not allow for manual ordering of items.  This plugin enables that.  Also
 recommended is [Simple Page Ordering](https://wordpress.org/plugins/simple-page-ordering/).
 
-Technical details:
-* Sets the 'restaurant' custom content type to be hierarchical
-* Sets archive pages for the 'restaurant' to sort by menu_order
+### Technical details:
+
+1. Sets the 'restaurant' custom content type to be hierarchical
+2. Sets archive pages for the 'restaurant' to sort by menu_order
 
 == Screenshots ==
 
