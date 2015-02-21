@@ -3,7 +3,7 @@
 Plugin Name: Restaurant Menu Ordering
 Plugin URI: http://topher1kenobe.com
 Plugin Group: Utilities
-Author: Topher
+Author: topher1kenobe
 Author URI: //topher1kenobe.com
 Description: Makes the Restaurant plugin allow hierarchical ordering of items.  WARNING: could make things slow if you have more than 100 items.
 Version: 1.0
