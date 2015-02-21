@@ -1,5 +1,5 @@
 === Restaurant Menu Ordering ===
-Contributors: Topher
+Contributors: topher1kenobe
 Donate link: https://topher1kenobe.com/send-me-money/
 Tags: restaurant
 Requires at least: 3.9
