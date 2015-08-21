@@ -3,7 +3,7 @@ Contributors: topher1kenobe
 Donate link: https://topher1kenobe.com/send-me-money/
 Tags: restaurant
 Requires at least: 3.9
-Tested up to: 4.1
+Tested up to: 4.3
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
